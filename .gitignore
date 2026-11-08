@@ -1,0 +1,10 @@
+
+# Archivos generados al compilar
+*.o
+*.elf
+*.bin
+*.uf2
+*_disassembly.txt
+
+# Archivos de macOS
+.DS_Store
